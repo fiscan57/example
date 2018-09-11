@@ -1,0 +1,7 @@
+bricks
+sand
+good mortar
+wheelbarrow
+shovel
+gloves
+rope
